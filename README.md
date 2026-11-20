@@ -1,4 +1,6 @@
-# 👋 Hey everyone! 👋
+# EoL is not the end for Legacy Windows
+
+👋 **Hey everyone!** 👋
 
 🤝 Welcome to my GitHub project hub, **"EoL is not the end for Legacy Windows"**, where we stand up against the end of official support for classic Windows operating systems! Microsoft may have abandoned its legendary products (like XP, 7, and others), so we are taking matters into our own hands to prove that legacy systems still deserve a second life! ❤️‍🩹
 
