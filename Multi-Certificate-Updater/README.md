@@ -2,7 +2,7 @@
 
 🌐 With this utility, you can update your Trusted Root Certification Authorities in just one click. These certificates are essential for modern websites to load properly in your browser and for the modern HTTPS protocol to function correctly.
 
-=------------------------------------------------------------------------------------------------------------------------------------------------------------------=
+=------------------------------------------------------------------------------------------------------------------------------------------------------------=
 
 ### 🧐 HOW IT WORKS & WHAT'S INSIDE
 
@@ -19,7 +19,7 @@ This package is built upon the original Microsoft `rootsupd.exe` utility (521 KB
 2. In Google Chrome 49, you will no longer see the "Your clock is ahead" (`NET::ERR_CERT_DATE_INVALID`) error.
 3. Many desktop apps, installers, and launchers that require an internet connection to reach their servers will stop throwing SSL/connection errors.
 
-=------------------------------------------------------------------------------------------------------------------------------------------------------------------=
+=------------------------------------------------------------------------------------------------------------------------------------------------------------=
 
 ### ❗ VirusTotal Check & False Positives (`VirusTotal.png`)
 
