@@ -2,7 +2,7 @@
 
 🌐 With this utility, you can update your Trusted Root Certification Authorities in just one click. These certificates are essential for modern websites to load properly in your browser and for the modern HTTPS protocol to function correctly.
 
-=----------------------------------------------------------------------------------------------------------------------------------------------------------------=
+=--------------------------------------------------------------------------------------------------------------------------------------------------------------=
 
 ### 🧐 HOW IT WORKS & WHAT'S INSIDE
 
